@@ -36,7 +36,7 @@ while True:
     pyautogui.click(x=2322, y=1000)  
     time.sleep(60)  
     
-    pyautogui.click(x=2322, y=585) 
+    pyautogui.click(x=2322, y=585) #this is for the potential error popup
     time.sleep(10)
 
 ```
