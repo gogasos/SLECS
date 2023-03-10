@@ -8,9 +8,13 @@ Adjust any sleep timers to your liking.
 
 
 
+
+
 ## Usage/Examples
 
 pip install pyautogui
+
+(Rember to have Last Epoch on the next Alt + Tab)
 
 
 then run in vscode as is.
